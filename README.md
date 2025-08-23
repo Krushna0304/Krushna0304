@@ -1,60 +1,77 @@
-# 💻 Krushna Salbande  
-
-🚀 **Game Developer | Backend Engineer | Tech Enthusiast**  
-
-I’m a **Computer Engineer** passionate about creating interactive digital experiences that merge creativity with technology. Skilled in **game development, backend systems, and databases**, I enjoy building applications that are both engaging and technically robust.  
+<h1 align="center">👋 Hi, I'm Krushna Salbande</h1>  
+<h3 align="center">💻 Game Developer | Backend Engineer | Tech Enthusiast 🚀</h3>  
 
 ---
 
-### 🛠️ Tech Stack  
-
-**Programming Languages:**  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
-![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-
-**Backend Services:**  
-![Photon](https://img.shields.io/badge/-Photon%20Network-blue?style=flat)  
-![Mirror](https://img.shields.io/badge/-Mirror-lightgrey?style=flat)  
-![PlayFab](https://img.shields.io/badge/-PlayFab-orange?style=flat)  
-
-**Frameworks & Databases:**  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)  
-
-**Tools & IDEs:**  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea)  
-![Unity3D](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab)  
+## 🧑‍💻 About Me  
+🎮 Passionate **Game Developer** and **Computer Engineer** with skills in backend systems, databases, and creative digital experiences.  
+⚡ Love merging **technology + creativity** to design engaging games and applications.  
+🌱 Exploring **Machine Learning & Game AI** to bring innovation into gameplay.  
 
 ---
 
-### 📊 GitHub Stats  
+## 🛠️ Tech Stack  
 
-![Krushna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krushna0304&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna0304&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Krushna0304&theme=radical)  
+<div align="center">
+
+**Programming Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)  
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
+
+**Backend Services**  
+![Photon](https://img.shields.io/badge/Photon%20Network-2E77BC?style=for-the-badge)  
+![Mirror](https://img.shields.io/badge/Mirror-grey?style=for-the-badge)  
+![PlayFab](https://img.shields.io/badge/PlayFab-orange?style=for-the-badge)  
+
+**Frameworks & Databases**  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)  
+
+**Tools & IDEs**  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)  
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea)  
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)  
+
+</div>
 
 ---
 
-### 🌐 Competitive Programming Profiles  
+## 📊 GitHub Stats  
 
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/krushnasal7bdh/)  
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/krushna0304)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Krushna0304)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/krushnasalbande2004/)  
+<div align="center">  
+
+![Krushna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krushna0304&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna0304&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Krushna0304&theme=radical&hide_border=true)  
+
+</div>  
 
 ---
 
-### 🔗 Connect With Me  
+## 🌐 Competitive Programming Profiles  
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Krushna0304)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/krushna-salbande-680952250)  
+<p align="center">
+<a href="https://www.geeksforgeeks.org/user/krushnasal7bdh/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+<a href="https://www.codechef.com/users/krushna0304"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+<a href="https://www.hackerrank.com/profile/Krushna0304"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+<a href="https://leetcode.com/u/krushnasalbande2004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+</p>
+
+---
+
+## 🔗 Connect With Me  
+
+<p align="center">
+<a href="https://github.com/Krushna0304"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/in/krushna-salbande-680952250"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://sketchfab.com/krunity"><img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white"></a>
+</p>  
 
 ---
 

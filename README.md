@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Krushna Salbande</h1>  
-<h3 align="center">💻 Game Developer | Backend Engineer | Tech Enthusiast 🚀</h3>  
+<h3 align="center">💻 Backend Developer | Computer Engineer | Tech Enthusiast 🚀</h3>  
 
 ---
 
 ## 🧑‍💻 About Me  
 🎮 Passionate **Game Developer** and **Computer Engineer** with skills in backend systems, databases, and creative digital experiences.  
 ⚡ Love merging **technology + creativity** to design engaging games and applications.  
-🌱 Exploring **Machine Learning & Game AI** to bring innovation into gameplay.  
+🌱 Exploring **Backend Services & Game Dev** to bring innovation into gameplay.  
 
 ---
 
